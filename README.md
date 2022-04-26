@@ -1,1 +1,3 @@
-# OMGraph-Client
+# Superus-Client
+> Superus client for public download
+> 
